@@ -1,0 +1,1 @@
+SELECT * FROM log_in_attempts WHERE login_date BETWEEN '2022-05-08' AND '2022-05-09' ORDER BY login_date ASC;
